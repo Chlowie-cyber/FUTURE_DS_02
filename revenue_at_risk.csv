@@ -1,0 +1,4 @@
+plan_tier,churned_customers,total_mrr_at_risk,avg_mrr_at_risk
+Basic,132,72523,477.12
+Enterprise,146,926345,5385.73
+Pro,141,180271,1112.78

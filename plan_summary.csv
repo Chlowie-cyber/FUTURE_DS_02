@@ -1,0 +1,4 @@
+plan_tier,total_customers,churned,total_mrr,avg_mrr,avg_seats,churn_rate,retention_rate
+Basic,480,152,760437,474.68,29.6,0.3167,0.6833
+Enterprise,479,172,8473221,4917.71,29.4,0.3591,0.6409
+Pro,474,162,2105089,1256.77,30.6,0.3418,0.6582

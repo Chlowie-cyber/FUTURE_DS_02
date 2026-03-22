@@ -1,0 +1,6 @@
+tenure_bucket,churned,total,churn_rate,retention_rate
+Under 18 months,221,2175,0.1016,0.8984
+18-24 months,136,1710,0.0795,0.9205
+24-30 months,80,778,0.1028,0.8972
+30-36 months,42,304,0.1382,0.8618
+36+ months,7,33,0.2121,0.7879
